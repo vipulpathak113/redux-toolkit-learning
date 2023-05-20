@@ -1,0 +1,23 @@
+{
+  "name": "redux-toolkit-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vipulpathak113/redux-toolkit-learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vipulpathak113/redux-toolkit-learning/issues"
+  },
+  "homepage": "https://github.com/vipulpathak113/redux-toolkit-learning#readme",
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.5"
+  }
+}
